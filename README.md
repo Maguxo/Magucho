@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Magucho
-- 👀 I’m interesaria ingresar a una compañia que  me de alas para crecer como programador.
-- 🌱 I’m currently  en un niver intermedio en programacion java.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Magucho...
 - 📫 How to reach me ...correos: edgar.gomez@unicafam.edu.  ednemsis-006@hotmail.com.
 
 <!---
