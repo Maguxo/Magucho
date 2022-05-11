@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Magucho...
+- 👋 Hi, I’m @Magucho.
 - 📫 How to reach me ...correos: edgar.gomez@unicafam.edu.  ednemsis-006@hotmail.com.
 
 <!---
