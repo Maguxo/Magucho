@@ -27,7 +27,10 @@
 </div>
 
 ---
-ABOUT ME:
+<div>
+<img src="https://cdn.pixabay.com/photo/2017/11/10/05/48/user-2935527_960_720.png" width=30/>
+ABOUT ME:  
+</div>
 
 * I like to read and to run on weekends.
 * I would be willing to prepare myself to participate in projects with java language on artificial intelligence.
@@ -35,3 +38,36 @@ ABOUT ME:
 * Telegram: @guxho
 * Whatsapp: +57 3102068070.
 ---
+
+<div id="header">
+  <p><img src="https://www.crushpixel.com/big-static19/preview4/hammer-icon-cartoon-style-3247362.jpg" width=30/>
+   LANGUAGES AND TOOLS: 
+  </p>
+</div>
+
+<div id="badges" align="center">
+  <a>
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width=60/>
+   </a>
+  
+  <a>
+  <img src="https://cdn.neowin.com/news/images/uploaded/2020/02/1582627771_androidstudio_story.jpg" width=60/>
+   </a>
+  
+  <a>
+  <img src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue.png" width=60/>
+   </a>
+  
+  <a>
+  <img src="https://img2.freepng.es/20180617/bea/kisspng-xampp-apache-http-server-web-server-computer-serve-arroba-5b2690a91d4905.10335897152925405712.jpg" width=35/>
+   </a>
+ 
+  <a>
+  <img src="https://databasejoe.com/blog/wp-content/uploads/2020/01/sqlserverlogo.png" width=60/>
+   </a>
+  
+  <a>
+  <img src="https://www.andreszsogon.com/wp-content/uploads/logo_apache_netbeans_cordova.png" width=100/>
+   </a>
+  
+  </div>
