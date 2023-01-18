@@ -47,7 +47,7 @@ ABOUT ME:
 
 <div id="badges" align="center">
   <a>
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width=60/>
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width=70/>
    </a>
   
   <a>
@@ -68,6 +68,10 @@ ABOUT ME:
   
   <a>
   <img src="https://www.andreszsogon.com/wp-content/uploads/logo_apache_netbeans_cordova.png" width=100/>
+   </a>
+  
+  <a>
+  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" width=40/>
    </a>
   
   </div>
