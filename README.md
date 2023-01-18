@@ -51,7 +51,7 @@ ABOUT ME:
    </a>
   
   <a>
-  <img src="https://cdn.neowin.com/news/images/uploaded/2020/02/1582627771_androidstudio_story.jpg" width=60/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" width=60/>
    </a>
   
   <a>
