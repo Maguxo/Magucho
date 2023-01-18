@@ -51,7 +51,7 @@ ABOUT ME:
    </a>
   
   <a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" width=60/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" width=50/>
    </a>
   
   <a>
