@@ -51,7 +51,7 @@ ABOUT ME:
    </a>
   
   <a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" width=50/>
+  <img src="https://www.softzone.es/app/uploads-softzone.es/2021/07/Programacion-en-Android-Studio.jpg?x=480&y=375&quality=40" width=40/>
    </a>
   
   <a>
