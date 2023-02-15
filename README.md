@@ -78,4 +78,7 @@ ABOUT ME:
 ---
 
 <div id"badges" align"center">
+<p>
+  si
+</p>
 </div>
