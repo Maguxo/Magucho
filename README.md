@@ -77,3 +77,5 @@ ABOUT ME:
   </div>
 ---
 
+<div id"badges" align"center">
+</div>
