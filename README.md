@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width=366 height="166">
   <h1 align="center"> Hi, I´m Magucho </h1>
   
-  <h3 align="center"> passionate about programming in the java language, mobile App and Bankend software from Colombia. I am very interested in artificial intelligence when it is developed with Java language.</h3>
+  <h3 align="center"> Passionate about programming in the java language, mobile App and Bankend software from Colombia. I am very interested in artificial intelligence when it is developed with Java language.</h3>
   </div>
   
   <div id="badges" align="center">
