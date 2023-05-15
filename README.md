@@ -49,7 +49,7 @@ ABOUT ME:
   <table>
     <thead>
      <tr>
-       <th>Java</th>
+       <th  style="color: #14AAF5;">Java</th>
        <th>Android Studio</th>
        <th>Eclipse IDE</th>
        <th>Xampp</th>
