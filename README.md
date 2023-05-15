@@ -46,34 +46,56 @@ ABOUT ME:
 </div>
 
 <div id="badges" align="center">
-  <a>
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width=70/>
-   </a>
-  
-  <a>
-  <img src="https://www.softzone.es/app/uploads-softzone.es/2021/07/Programacion-en-Android-Studio.jpg?x=480&y=375&quality=40" width=40/>
-   </a>
-  
-  <a>
-  <img src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue.png" width=60/>
-   </a>
-  
-  <a>
-  <img src="https://img2.freepng.es/20180617/bea/kisspng-xampp-apache-http-server-web-server-computer-serve-arroba-5b2690a91d4905.10335897152925405712.jpg" width=35/>
-   </a>
- 
-  <a>
-  <img src="https://databasejoe.com/blog/wp-content/uploads/2020/01/sqlserverlogo.png" width=60/>
-   </a>
-  
-  <a>
-  <img src="https://www.andreszsogon.com/wp-content/uploads/logo_apache_netbeans_cordova.png" width=100/>
-   </a>
-  
-  <a>
-  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" width=40/>
-   </a>
-  
+  <table>
+    <thead>
+     <tr>
+       <th>Java</th>
+       <th>Android Studio</th>
+       <th>Eclipse IDE</th>
+       <th>Xampp</th>
+       <th>SQL Server</th>  
+       <th>Apache Netbeans IDE</th>
+       <th>Firebase</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+         <td align="center">
+             <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width=70/>
+         </td>
+         <td align="center">
+            <a>
+            <img src="https://1.bp.blogspot.com/-bik6AotfT0M/X4R87hMVaqI/AAAAAAAAPws/JmmIww-SNscuR1MeW4_4wlrRT1SGXbNyQCLcBGAsYHQ/s0/AndroidStudio_logo.png" alt="Android Studio" width=70/>
+            </a>
+         </td>
+         <td align="center">
+            <a>
+               <img src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue.png" alt="Eclipse" width=70/>
+            </a>
+         </td>
+         <td align="center">
+             <a>
+               <img src="https://img2.freepng.es/20180617/bea/kisspng-xampp-apache-http-server-web-server-computer-serve-arroba-5b2690a91d4905.10335897152925405712.jpg" alt="Xampp" width=50/>   
+             </a>
+         </td>
+         <td align="center">
+             <a>
+                <img src="https://databasejoe.com/blog/wp-content/uploads/2020/01/sqlserverlogo.png"  alt="SQL server" width=60/>
+             </a>
+         </td>
+         <td align="center">
+             <a>
+                <img src="https://www.andreszsogon.com/wp-content/uploads/logo_apache_netbeans_cordova.png" alt="Netbeans" width=100/>
+             </a>
+          </td>
+          <td align="center">
+             <a>
+                <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" alt="Firebase" width=50/>
+             </a>
+          </td>
+      </tr>
+    </tbody>
+  </table>
   </div>
   
 ---
