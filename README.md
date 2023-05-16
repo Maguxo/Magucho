@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width=366 height="166">
-  <h1 align="center"> Hi, I´m Magucho </h1>
+  <h1 align="center">🖐Hi, I´m Magucho </h1>
   
   <h3 align="center"> Passionate about programming in the java language, mobile App and Bankend software from Colombia.I am interested in gaining experience in companies that help developers grow.</h3>
   </div>
@@ -29,19 +29,19 @@
 ---
 <div>
 <img src="https://cdn.pixabay.com/photo/2017/11/10/05/48/user-2935527_960_720.png" width=30/>
-ABOUT ME:  
+✍ABOUT ME:  
 </div>
 
-* I like to read and to run on weekends.
-* I would be willing to prepare myself to participate in projects with java language on artificial intelligence.
-* I like jobs with a good environment.
-* Telegram: @guxho
-* Whatsapp: +57 3102068070.
+*📚I like to read and to run on weekends.
+*👩‍💻I would be willing to prepare myself to participate in projects with java language on artificial intelligence.
+*🪁I like jobs with a good environment.
+*📱Telegram: @guxho
+*📞Whatsapp: +57 3102068070.
 ---
 
 <div id="header">
   <p><img src="https://www.crushpixel.com/big-static19/preview4/hammer-icon-cartoon-style-3247362.jpg" width=30/>
-   LANGUAGES AND TOOLS: 
+  🛠LANGUAGES AND TOOLS: 
   </p>
 </div>
 
