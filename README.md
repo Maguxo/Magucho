@@ -23,11 +23,11 @@
 ABOUT ME:  
 </div>
 
-* 📚I like to read and to run on weekends.
-* 👩‍💻I would be willing to prepare myself to participate in projects with java language on artificial intelligence.
-* 🪁I like jobs with a good environment.
-* 📱Telegram: @guxho
-* 📞Whatsapp: +57 3102068070.
+* 📚I like to read and to run on weekends
+* 👩‍💻I would be willing to prepare myself to participate in projects with java language on artificial intelligence
+* 🪁I like jobs with a good environment
+* 🕵️‍♀️I learn every day
+* 🤙I like people who see things differently.
 ---
 
 <div id="header">
