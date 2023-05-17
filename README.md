@@ -98,7 +98,7 @@ CONNECT WITH ME:
   <a href="https://www.facebook.com/magucho.gomez/">
   <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
    </a>
-  
+  <br>
   <a href="https://wa.me/573102068070">
   <img src="https://wintorabc.com.co/wp-content/uploads/2023/01/WhatsApp.jpg" alt="Whatsapp" width=100 height=56/>
    </a>
