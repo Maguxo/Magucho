@@ -93,7 +93,7 @@ ABOUT ME:
 <div>
 <img src="https://www.seekpng.com/png/detail/116-1166872_manejo-de-redes-sociales-en-valencia-social-media.png"  width=30/>
 CONNECT WITH ME:
-  
+  <p>
 <p align="center">
   <a href="https://www.facebook.com/magucho.gomez/">
   <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
