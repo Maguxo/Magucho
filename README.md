@@ -106,6 +106,7 @@ CONNECT WITH ME:
   <a  href="https://www.linkedin.com/in/magucho/" >
   <img src="https://blog.waalaxy.com/wp-content/uploads/2022/08/Blog-v2-Background-Gradients-3.png" alt="linkedin" width=100 height=56/>
    </a>
+  <br>
   <a href="https://t.me/guxho">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgVAe6YtdmGGm9wL250HpuoIbZdKPMdKjQA&usqp=CAU" alt="telegram" width=100 height=56/>
    </a>
