@@ -166,26 +166,20 @@ ABOUT ME:
   <table>
     <thead>
      <tr>
-       <th>Java</th>
+       <th>Intellij IDEA</th>
        <th>Android Studio</th>
        <th>Eclipse IDE</th>
        <th>Xampp</th>
-       <th>Mysql</th>  
+       <th>Mysql </th>  
        <th>Apache Netbeans IDE</th>
-       <th>Firebase</th>
+       <th>Visual Studio Code</th>
+       <th>Windows 10</th>
       </tr>
     </thead>
     <tbody>
       <tr>
          <td align="center">
-             <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width=80/>
-             <br>
-             <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
-             <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
-           <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
-           <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
-           <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
-           <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+             <img src="https://www.qbssoftware.de/wp-content/uploads/2022/07/JetBrains-Intellij-IDEA.png" alt="intellij" width=80/>
          </td>
          <td align="center">
             <a>
@@ -204,7 +198,7 @@ ABOUT ME:
          </td>
          <td align="center">
              <a>
-                <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png"  alt="SQL server" width=60/>
+                <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png"  alt="workbench" width=60/>
              </a>
          </td>
          <td align="center">
@@ -214,15 +208,20 @@ ABOUT ME:
           </td>
           <td align="center">
              <a>
-                <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" alt="Firebase" width=60/>
+                <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGRqcmd3dy04NDZjZTQyOS0zYjBkLTRhZDgtYmY2ZC1hYzUyZGZlNDgyMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G0SE64OMLNEGI8vXb21JRl13RMfER1VP8Kh2Ig3oJaQ" alt="visualstudio" width=60/>
              </a>
           </td>
+        <td align="center">
+          <p>
+            <img src="https://1000marcas.net/wp-content/uploads/2019/12/Windows-Logo-1.png" alt="windows" width="60">
+          </p>
+        </td>
       </tr>
     </tbody>
   </table>  
 </div> 
----
 
+---
 <div>
 <img src="https://www.seekpng.com/png/detail/116-1166872_manejo-de-redes-sociales-en-valencia-social-media.png"  width=30/>
 CONNECT WITH ME:
