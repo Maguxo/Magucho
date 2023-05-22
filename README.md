@@ -182,34 +182,34 @@ ABOUT ME:
              <img src="https://www.qbssoftware.de/wp-content/uploads/2022/07/JetBrains-Intellij-IDEA.png" alt="intellij" width=80/>
          </td>
          <td align="center">
-            <a>
+            <p>
             <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" width=70/>
-            </a>
+            </p>
          </td>
          <td align="center">
-            <a>
+            <p>
                <img src="https://jarroba.com/wp-content/uploads/2015/03/Eclipse-Icono-www.Jarroba.com_.png?w=144" alt="Eclipse" width=60/>
-            </a>
+            </p>
          </td>
          <td align="center">
-             <a>
+             <p>
                <img src="https://www.islabit.com/wp-content/uploads/2021/12/alternativas-XAMPP.png" alt="Xampp" width=70/>   
-             </a>
+             </p>
          </td>
          <td align="center">
-             <a>
+             <p>
                 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png"  alt="workbench" width=60/>
-             </a>
+             </p>
          </td>
          <td align="center">
-             <a>
+             <p>
                 <img src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" alt="Netbeans" width=110/>
-             </a>
+             </p>
           </td>
           <td align="center">
-             <a>
+             <p>
                 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGRqcmd3dy04NDZjZTQyOS0zYjBkLTRhZDgtYmY2ZC1hYzUyZGZlNDgyMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G0SE64OMLNEGI8vXb21JRl13RMfER1VP8Kh2Ig3oJaQ" alt="visualstudio" width=60/>
-             </a>
+             </p>
           </td>
         <td align="center">
           <p>
