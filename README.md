@@ -31,7 +31,7 @@ ABOUT ME:
 ---
 
 <div id="header">
-  <p><img src="https://www.crushpixel.com/big-static19/preview4/hammer-icon-cartoon-style-3247362.jpg" width=30/>
+  <p><img src="https://e7.pngegg.com/pngimages/436/387/png-clipart-laptop-euclidean-computer-laptop-electronics-computer.png" width=30/>
   LANGUAGES: 
   </p>
 </div>
@@ -46,7 +46,6 @@ ABOUT ME:
        <th>Css</th>
        <th>JavaScript</th>  
        <th>Python</th>
-       <th>Firebase</th>
       </tr>
     </thead>
     <tbody>
@@ -62,34 +61,64 @@ ABOUT ME:
            <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
          </td>
          <td align="center">
-            <a>
-            <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="C-shirp" width=70/>
-            </a>
+           <p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-shirp" width=50  height="46"/>
+             <br>
+              <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+           <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+            </p>
          </td>
          <td align="center">
-            <a>
-               <img src="https://jarroba.com/wp-content/uploads/2015/03/Eclipse-Icono-www.Jarroba.com_.png?w=144" alt="Eclipse" width=60/>
-            </a>
+            <p>
+               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="Html" width=50/>
+              <br>
+               <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+               <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+            </p>
          </td>
          <td align="center">
-             <a>
-               <img src="https://www.islabit.com/wp-content/uploads/2021/12/alternativas-XAMPP.png" alt="Xampp" width=70/>   
-             </a>
+             <p>
+               <img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" alt="css" width=86/>
+               <br>
+               <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+               <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+             </p>
          </td>
          <td align="center">
-             <a>
-                <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png"  alt="SQL server" width=60/>
-             </a>
+             <p>
+                <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png"  alt="Javascrip" width=75/>
+               <br>
+                <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+           <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+             </p>
          </td>
          <td align="center">
-             <a>
-                <img src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" alt="Netbeans" width=110/>
-             </a>
-          </td>
-          <td align="center">
-             <a>
-                <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" alt="Firebase" width=60/>
-             </a>
+             <p>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width=45/>
+               <br>
+               <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+           <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+              <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+             </p>
           </td>
       </tr>
     </tbody>
@@ -97,7 +126,39 @@ ABOUT ME:
 </div>
   
 ---
-LANGUAGES AND TOOLS: 
+<div id="header">
+  <p><img src="https://e7.pngegg.com/pngimages/88/456/png-clipart-computer-icons-database-enterprise-search-information-technology-transfer-logo-information-technology.png" width=30/>
+  SQL and NoSQL: 
+  </p>
+</div>
+
+<div id="badges" align="center">
+  <table>
+    <thead>
+     <tr>
+       <th>Mysql</th>
+       <th>Firebase</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+         <td align="center">
+             <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="Mysql" width=60/>
+         </td>
+         <td align="center">
+           <p>
+            <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" alt="Firebase" width=50  height="46"/>
+            </p>
+         </td>
+      </tr>
+    </tbody>
+  </table>  
+</div>
+  
+---
+
+ <p><img src="https://www.crushpixel.com/big-static19/preview4/hammer-icon-cartoon-style-3247362.jpg" width=30/>
+  TOOLS: 
   </p>
 </div>
 
@@ -159,9 +220,9 @@ LANGUAGES AND TOOLS:
       </tr>
     </tbody>
   </table>  
-</div>
-  
+</div> 
 ---
+
 <div>
 <img src="https://www.seekpng.com/png/detail/116-1166872_manejo-de-redes-sociales-en-valencia-social-media.png"  width=30/>
 CONNECT WITH ME:
