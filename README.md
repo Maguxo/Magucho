@@ -52,21 +52,21 @@ ABOUT ME:
     <tbody>
       <tr>
          <td align="center">
-             <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width=70/>
+             <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width=80/>
          </td>
          <td align="center">
             <a>
-            <img src="https://1.bp.blogspot.com/-bik6AotfT0M/X4R87hMVaqI/AAAAAAAAPws/JmmIww-SNscuR1MeW4_4wlrRT1SGXbNyQCLcBGAsYHQ/s0/AndroidStudio_logo.png" alt="Android Studio" width=70/>
+            <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" width=70/>
             </a>
          </td>
          <td align="center">
             <a>
-               <img src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue.png" alt="Eclipse" width=70/>
+               <img src="https://jarroba.com/wp-content/uploads/2015/03/Eclipse-Icono-www.Jarroba.com_.png?w=144" alt="Eclipse" width=60/>
             </a>
          </td>
          <td align="center">
              <a>
-               <img src="https://img2.freepng.es/20180617/bea/kisspng-xampp-apache-http-server-web-server-computer-serve-arroba-5b2690a91d4905.10335897152925405712.jpg" alt="Xampp" width=50/>   
+               <img src="https://www.islabit.com/wp-content/uploads/2021/12/alternativas-XAMPP.png" alt="Xampp" width=70/>   
              </a>
          </td>
          <td align="center">
@@ -76,12 +76,12 @@ ABOUT ME:
          </td>
          <td align="center">
              <a>
-                <img src="https://www.andreszsogon.com/wp-content/uploads/logo_apache_netbeans_cordova.png" alt="Netbeans" width=100/>
+                <img src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" alt="Netbeans" width=110/>
              </a>
           </td>
           <td align="center">
              <a>
-                <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" alt="Firebase" width=50/>
+                <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" alt="Firebase" width=60/>
              </a>
           </td>
       </tr>
