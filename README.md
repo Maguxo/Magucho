@@ -62,7 +62,7 @@ ABOUT ME:
          </td>
          <td align="center">
            <p>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-shirp" width=50  height="46"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-shirp" width=50  height="50"/>
              <br>
               <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
            <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
