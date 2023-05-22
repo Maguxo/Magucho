@@ -44,7 +44,7 @@ ABOUT ME:
        <th>Android Studio</th>
        <th>Eclipse IDE</th>
        <th>Xampp</th>
-       <th>SQL Server</th>  
+       <th>Mysql</th>  
        <th>Apache Netbeans IDE</th>
        <th>Firebase</th>
       </tr>
@@ -71,7 +71,7 @@ ABOUT ME:
          </td>
          <td align="center">
              <a>
-                <img src="https://databasejoe.com/blog/wp-content/uploads/2020/01/sqlserverlogo.png"  alt="SQL server" width=60/>
+                <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png"  alt="SQL server" width=60/>
              </a>
          </td>
          <td align="center">
