@@ -32,7 +32,72 @@ ABOUT ME:
 
 <div id="header">
   <p><img src="https://www.crushpixel.com/big-static19/preview4/hammer-icon-cartoon-style-3247362.jpg" width=30/>
-  LANGUAGES AND TOOLS: 
+  LANGUAGES: 
+  </p>
+</div>
+
+<div id="badges" align="center">
+  <table>
+    <thead>
+     <tr>
+       <th>Java</th>
+       <th>C#</th>
+       <th>Html</th>
+       <th>Css</th>
+       <th>JavaScript</th>  
+       <th>Python</th>
+       <th>Firebase</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+         <td align="center">
+             <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width=80/>
+             <br>
+             <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+             <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+           <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+           <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+           <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+           <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+         </td>
+         <td align="center">
+            <a>
+            <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="C-shirp" width=70/>
+            </a>
+         </td>
+         <td align="center">
+            <a>
+               <img src="https://jarroba.com/wp-content/uploads/2015/03/Eclipse-Icono-www.Jarroba.com_.png?w=144" alt="Eclipse" width=60/>
+            </a>
+         </td>
+         <td align="center">
+             <a>
+               <img src="https://www.islabit.com/wp-content/uploads/2021/12/alternativas-XAMPP.png" alt="Xampp" width=70/>   
+             </a>
+         </td>
+         <td align="center">
+             <a>
+                <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png"  alt="SQL server" width=60/>
+             </a>
+         </td>
+         <td align="center">
+             <a>
+                <img src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" alt="Netbeans" width=110/>
+             </a>
+          </td>
+          <td align="center">
+             <a>
+                <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" alt="Firebase" width=60/>
+             </a>
+          </td>
+      </tr>
+    </tbody>
+  </table>  
+</div>
+  
+---
+LANGUAGES AND TOOLS: 
   </p>
 </div>
 
@@ -53,6 +118,13 @@ ABOUT ME:
       <tr>
          <td align="center">
              <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width=80/>
+             <br>
+             <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+             <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+           <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+           <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
+           <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
+           <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
          </td>
          <td align="center">
             <a>
