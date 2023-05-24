@@ -170,7 +170,7 @@ ABOUT ME:
        <th>Android Studio</th>
        <th>Eclipse IDE</th>
        <th>Xampp</th>
-       <th>Mysql </th>  
+       <th>Mysql Workbench</th>  
        <th>Apache Netbeans IDE</th>
        <th>Visual Studio Code</th>
        <th>Windows 10</th>
