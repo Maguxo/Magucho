@@ -61,6 +61,7 @@ ABOUT ME:
            <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
          </td>
          <td align="center">
+           <center>
            <p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-shirp" width=50  height="50"/>
              <br>
@@ -71,6 +72,7 @@ ABOUT ME:
               <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
               <img src="https://images.vexels.com/media/users/3/136916/isolated/lists/aa21eb60437133bf4f4be189636a187a-icono-de-contorno-favorito-de-estrella.png" alt="estrella-opaca" width="12">
             </p>
+           </center>
          </td>
          <td align="center">
             <p>
