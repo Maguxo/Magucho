@@ -227,16 +227,15 @@ ABOUT ME:
 <div>
 <img src="https://www.seekpng.com/png/detail/116-1166872_manejo-de-redes-sociales-en-valencia-social-media.png"  width=30/>
 CONNECT WITH ME:
-  <p>
-<p align="center" target="_blank">
-  <a href="https://www.facebook.com/magucho.gomez/" target="_blank" >
-  <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
-   </a>
   <br>
+<div align="center">
+  <a href="https://www.facebook.com/magucho.gomez/">
+  <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
+    <br>
+   </a>
   <a href="https://wa.me/573102068070" target="_blank" >
   <img src="https://wintorabc.com.co/wp-content/uploads/2023/01/WhatsApp.jpg" alt="Whatsapp" width=100 height=56/>
-   </a>
-  
+  </a>
   <a href="https://www.linkedin.com/in/magucho/" target="_blank" >
   <img src="https://blog.waalaxy.com/wp-content/uploads/2022/08/Blog-v2-Background-Gradients-3.png" alt="linkedin" width=100 height=56/>
    </a>
@@ -247,5 +246,5 @@ CONNECT WITH ME:
   <a href="https://www.instagram.com/maguch006/?next=%2Fricardovolga%2F" target="_blank" >
   <img src="https://img.freepik.com/premium-photo/3d-instagram-icon_272306-71.jpg" alt="instagram" width=100 height=56/>
      </a>
-</p>
+</div>
 </div>
