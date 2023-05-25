@@ -228,7 +228,7 @@ ABOUT ME:
 <img src="https://www.seekpng.com/png/detail/116-1166872_manejo-de-redes-sociales-en-valencia-social-media.png"  width=30/>
 CONNECT WITH ME:
   <p>
-<p align="center">
+<p align="center" target="_blank">
   <a href="https://www.facebook.com/magucho.gomez/" target="_blank" >
   <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
    </a>
@@ -243,10 +243,9 @@ CONNECT WITH ME:
   <br>
   <a href="https://t.me/guxho" target="_blank" >
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgVAe6YtdmGGm9wL250HpuoIbZdKPMdKjQA&usqp=CAU" alt="telegram" width=100 height=56/>
-   </a>
-  
+  </a>
   <a href="https://www.instagram.com/maguch006/?next=%2Fricardovolga%2F" target="_blank" >
   <img src="https://img.freepik.com/premium-photo/3d-instagram-icon_272306-71.jpg" alt="instagram" width=100 height=56/>
-   </a>
+     </a>
 </p>
 </div>
