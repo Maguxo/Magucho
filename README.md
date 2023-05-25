@@ -214,9 +214,7 @@ ABOUT ME:
              </p>
           </td>
         <td align="center">
-          <p>
             <img src="https://1000marcas.net/wp-content/uploads/2019/12/Windows-Logo-1.png" alt="windows" width="60">
-          </p>
         </td>
       </tr>
     </tbody>
