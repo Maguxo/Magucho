@@ -214,7 +214,9 @@ ABOUT ME:
              </p>
           </td>
         <td align="center">
+          <p>
             <img src="https://1000marcas.net/wp-content/uploads/2019/12/Windows-Logo-1.png" alt="windows" width="60">
+            </p>
         </td>
       </tr>
     </tbody>
@@ -227,7 +229,7 @@ ABOUT ME:
 CONNECT WITH ME:
   <p>
 <p align="center">
-  <a href="https://www.facebook.com/magucho.gomez/">
+  <a href="https://www.facebook.com/magucho.gomez/" target="blank">
   <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
    </a>
   <br>
