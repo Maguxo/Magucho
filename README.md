@@ -229,7 +229,7 @@ ABOUT ME:
 CONNECT WITH ME:
   <p>
 <p align="center">
-  <a href="https://www.facebook.com/magucho.gomez/" target="blank">
+  <a href="https://www.facebook.com/magucho.gomez/" target="_blank">
   <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
    </a>
   <br>
