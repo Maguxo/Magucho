@@ -130,7 +130,7 @@ ABOUT ME:
 ---
 <div id="header">
   <p><img src="https://e7.pngegg.com/pngimages/88/456/png-clipart-computer-icons-database-enterprise-search-information-technology-transfer-logo-information-technology.png" width=30/>
-  SQL and NoSQL: 
+  SGDB SQL and NoSQL: 
   </p>
 </div>
 
