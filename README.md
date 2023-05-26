@@ -244,7 +244,7 @@ ABOUT ME:
           </td>
         <td align="center">
           <p target="_blank" >
-            <a href="https://support.microsoft.com/es-es/windows/buscar-documentos-en-windows-5c7c8cfe-c289-fae4-f5f8-6b3fdba418d2">
+            <a href="https://www.microsoft.com/es-co/windows/?r=1">
             <img src="https://1000marcas.net/wp-content/uploads/2019/12/Windows-Logo-1.png" alt="windows" width="60">
               </a>
             </p>
