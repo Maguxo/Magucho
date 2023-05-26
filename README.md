@@ -51,6 +51,7 @@ ABOUT ME:
     <tbody>
       <tr>
          <td align="center">
+           <a  href="https://www.java.com/es/" target="_blank">
              <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" width=80/>
              <br>
              <img src="https://static.vecteezy.com/system/resources/thumbnails/018/842/654/small/3d-star-icon-isolated-on-background-customer-rating-feedback-concept-3d-rendering-free-png.png" alt="estrella" width="12">
