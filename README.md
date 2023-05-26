@@ -94,7 +94,7 @@ ABOUT ME:
          </td>
          <td align="center">
              <p target="_blank">
-               <a href="https://lenguajecss.com/css/">
+               <a href="https://www.w3schools.com/css/">
                <img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" alt="css" width=86/>
                 </a>
                <br>
@@ -108,7 +108,7 @@ ABOUT ME:
          </td>
          <td align="center">
              <p target="_blank">
-               <a href="https://lenguajejs.com/javascript/">
+               <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                 <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png"  alt="Javascrip" width=75/>
                </a>
                <br>
