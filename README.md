@@ -32,7 +32,7 @@ ABOUT ME:
 
 <div id="header">
   <p target="_blank"><img src="https://e7.pngegg.com/pngimages/436/387/png-clipart-laptop-euclidean-computer-laptop-electronics-computer.png" width=30/>
-  LANGUAGES: 
+  LANGUAGES AND MARKUP LANGUAGES: 
   </p>
 </div>
 
