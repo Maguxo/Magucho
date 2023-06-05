@@ -164,7 +164,7 @@ ABOUT ME:
          <td align="center">
            <p target="_blank">
              <a href="https://firebase.google.com/docs?hl=es-419">
-            <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png?hl=es-419" alt="Firebase" width=50  height="46"/>
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="Firebase" width=36  height="46"/>
               </a>
             </p>
          </td>
