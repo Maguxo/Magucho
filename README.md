@@ -20,8 +20,8 @@
 ---
 <div>
 <img src="https://github.com/Magucho/Magucho/assets/98346054/76f5677a-cedc-4cea-83df-8910d3e207ee" width=100/>
-
 ABOUT ME:  
+  <p>
 </div>
 
   ```java
