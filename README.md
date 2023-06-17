@@ -42,7 +42,7 @@ ABOUT ME:
 ---
 
 <div id="header">
-  <p target="_blank"><img src="https://e7.pngegg.com/pngimages/436/387/png-clipart-laptop-euclidean-computer-laptop-electronics-computer.png" width=30/>
+  <p target="_blank"><img src="https://github.com/Magucho/Magucho/assets/98346054/d4280bc5-1b4e-48f1-8926-2439604124bc" width=100/>
   LANGUAGES AND MARKUP LANGUAGES: 
   </p>
 </div>
