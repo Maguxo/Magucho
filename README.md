@@ -20,14 +20,25 @@
 ---
 <div>
 <img src="https://cdn.pixabay.com/photo/2017/11/10/05/48/user-2935527_960_720.png" width=30/>
+
 ABOUT ME:  
 </div>
 
-* 📚I like to read and to run on weekends
-* 💻👨🏽I would be willing to prepare myself to participate in projects with java language on artificial intelligence
-* 🪁I like jobs with a good environment
-* 🕵️‍♀️I learn every day
-* 🤙I like people who see things differently.
+  ```java
+
+  public class about_me{
+  
+     public static void main(String[] args){
+     
+     System.out.printf("📚I like to read and to run on weekends");
+	   System.out.printf("💻👨🏽I would be willing to prepare myself to"+
+                       " participate in projects with java language on artificial intelligence");
+	   System.out.printf("🪁I like jobs with a good environment");
+     System.out.printf("🕵️‍♀️I learn every day");
+     System.out.printf("🤙I like people who see things differently.");
+  }
+}
+```
 ---
 
 <div id="header">
