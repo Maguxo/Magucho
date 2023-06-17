@@ -31,9 +31,9 @@ ABOUT ME:
      public static void main(String[] args){
      
      System.out.printf("📚I like to read and to run on weekends");
-	   System.out.printf("💻👨🏽I would be willing to prepare myself to"+
+     System.out.printf("💻👨🏽I would be willing to prepare myself to"+
                        " participate in projects with java language on artificial intelligence");
-	   System.out.printf("🪁I like jobs with a good environment");
+     System.out.printf("🪁I like jobs with a good environment");
      System.out.printf("🕵️‍♀️I learn every day");
      System.out.printf("🤙I like people who see things differently.");
   }
