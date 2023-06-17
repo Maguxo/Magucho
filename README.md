@@ -267,7 +267,7 @@ ABOUT ME:
 
 ---
 <div>
-<img src="https://www.seekpng.com/png/detail/116-1166872_manejo-de-redes-sociales-en-valencia-social-media.png"  width=30/>
+<img src="https://github.com/Magucho/Magucho/assets/98346054/b6736e20-5f97-4a84-8ff6-9a59757d9097"  width=100/>
 CONNECT WITH ME:
   <br>
 <div align="center">
