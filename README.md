@@ -152,7 +152,7 @@ ABOUT ME:
   
 ---
 <div id="header">
-  <p target="_blank"><img src="https://e7.pngegg.com/pngimages/88/456/png-clipart-computer-icons-database-enterprise-search-information-technology-transfer-logo-information-technology.png" width=30/>
+  <p target="_blank"><img src="https://github.com/Magucho/Magucho/assets/98346054/985d193f-796e-4929-bfdb-60f40c9bf86e" width=100/>
   SGDB SQL and NoSQL: 
   </p>
 </div>
@@ -186,7 +186,7 @@ ABOUT ME:
   
 ---
 
- <p target="_blank" ><img src="https://www.crushpixel.com/big-static19/preview4/hammer-icon-cartoon-style-3247362.jpg" width=30/>
+ <p target="_blank" ><img src="https://github.com/Magucho/Magucho/assets/98346054/94c11b0f-ffed-4253-b37c-299aa4916c09" width=100/>
   TOOLS: 
   </p>
 </div>
