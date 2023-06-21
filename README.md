@@ -275,7 +275,7 @@ CONNECT WITH ME:
   <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
     <br>
    </a>
-  <a href="" target="_blank" >
+  <a href="https://wa.me/573102068070" target="_blank" >
   <img src="https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2022/03/28/whatsapp.png" alt="Whatsapp" width=100 height=56/>
   </a>
   <a href="https://www.linkedin.com/in/magucho/" target="_blank" >
