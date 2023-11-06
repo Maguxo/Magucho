@@ -308,7 +308,7 @@ CONNECT WITH ME:
   <a href="https://t.me/guxho" target="_blank" >
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgVAe6YtdmGGm9wL250HpuoIbZdKPMdKjQA&usqp=CAU" alt="telegram" width=100 height=56/>
   </a>
-  <a href="https://www.instagram.com/maguch006/?next=%2Fricardovolga%2F" target="_blank" >
+  <a href="https://instagram.com/desarrollando_ando?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr " target="_blank" >
   <img src="https://img.freepik.com/premium-photo/3d-instagram-icon_272306-71.jpg" alt="instagram" width=100 height=56/>
      </a>
 </div>
