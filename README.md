@@ -26,13 +26,17 @@ ABOUT ME:
   public class about_me{
   
      public static void main(String[] args){
-     
-     System.out.println("📚I like to read and to run on weekends");
-     System.out.println("💻👨🏽I would be willing to prepare myself to"+
+  
+     ArrayList<Life> people= new ArrayList<>();
+     people.add("📚I like to read and to run on weekends");
+     people.add("💻👨🏽I would be willing to prepare myself to"+
                        " participate in projects with java language on artificial intelligence");
-     System.out.println("🪁I like jobs with a good environment");
-     System.out.println("🕵️‍♀️I learn every day");
-     System.out.println("🤙I like people who see things differently.");
+     people.add("🪁I like jobs with a good environment");
+     people.add("🕵️‍♀️I learn every day");
+     people.add("🤙I like people who see things differently.");
+   for(Life live: people){
+     System.out.println("OK" + life);
+    }
   }
 }
 ```
