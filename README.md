@@ -16,7 +16,7 @@
 
 ---
 <div>
-<img src="https://github.com/Magucho/Magucho/assets/98346054/76f5677a-cedc-4cea-83df-8910d3e207ee" width=100/>
+<img src="https://github.com/Magucho/Magucho/assets/98346054/0b17ad7a-d121-4b3a-8353-1c3ca7320cc2" width="6%"/>
 ABOUT ME:  
   <p>
 </div>
@@ -187,7 +187,7 @@ ABOUT ME:
   
 ---
 
- <p target="_blank" ><img src="https://github.com/Magucho/Magucho/assets/98346054/94c11b0f-ffed-4253-b37c-299aa4916c09" width=100/>
+ <p target="_blank" ><img src="https://github.com/Magucho/Magucho/assets/98346054/9dcc01c3-caff-4655-8019-585eec51481e" width="6%"/>
   TOOLS: 
   </p>
 </div>
