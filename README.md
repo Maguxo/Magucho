@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/Magucho/Magucho/assets/98346054/0a72f9ef-e392-48e3-a738-1761b7ac7f29" width=400 height="200">
-  <h1 align="center">🖐Hi, I´m Magucho </h1>
+  <h1 align="center"><img src="https://github.com/Magucho/Magucho/assets/98346054/938b7c62-67e9-4e3f-993f-1733ab007482" width="6%">  Hi, I´m Magucho </h1>
   
   <h3 align="center"> Passionate about programming in the java language, mobile App and Bankend software from Colombia.I am interested in gaining experience in companies that help developers grow.</h3>
   </div>
