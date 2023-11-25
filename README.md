@@ -43,7 +43,7 @@ ABOUT ME:
 ---
 
 <div id="header">
-  <p target="_blank"><img src="https://github.com/Magucho/Magucho/assets/98346054/d4280bc5-1b4e-48f1-8926-2439604124bc" width=100/>
+  <p target="_blank"><img src="https://github.com/Magucho/Magucho/assets/98346054/4622601d-ec33-46df-9163-dff853bd33a6" width="6%"/>
   LANGUAGES AND MARKUP LANGUAGES: 
   </p>
 </div>
@@ -153,7 +153,7 @@ ABOUT ME:
   
 ---
 <div id="header">
-  <p target="_blank"><img src="https://github.com/Magucho/Magucho/assets/98346054/985d193f-796e-4929-bfdb-60f40c9bf86e" width=100/>
+  <p target="_blank"><img src="https://github.com/Magucho/Magucho/assets/98346054/e037ec4a-16fa-4b65-97ee-d3f9b23b9922" width="6%"/>
   SGDB SQL and NoSQL: 
   </p>
 </div>
@@ -291,7 +291,7 @@ ABOUT ME:
 
 ---
 <div>
-<img src="https://github.com/Magucho/Magucho/assets/98346054/b6736e20-5f97-4a84-8ff6-9a59757d9097"  width=100/>
+<img src="https://github.com/Magucho/Magucho/assets/98346054/d794c49f-4858-4e5b-8d9e-7b26b1861166"  width="6%"/>
 CONNECT WITH ME:
   <br>
 <div align="center">
