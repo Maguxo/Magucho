@@ -319,6 +319,6 @@ CONNECT WITH ME:
     <a>
     <h4><img src="https://github.com/Magucho/Magucho/assets/98346054/59a0abb1-d024-43d8-93d2-25f987215e9a" width="10%"/>  Thank you for taking the time to look at my profile! </h4>
     </a>
-      <h6>© 2023 Edgar M Gómez P Magucho <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="6%"/> </h6>
+      <h6>© 2024 Edgar M Gómez P Magucho <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="6%"/> </h6>
     </div>  
 </div>
